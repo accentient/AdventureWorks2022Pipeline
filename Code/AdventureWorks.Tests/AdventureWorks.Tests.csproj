@@ -9,7 +9,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F087C3F0-39B9-4D15-9C68-0A835CE7E9D5}</ProjectGuid>
+    <ProjectGuid>{D021E689-172D-4C63-8A5D-FF912673B0C7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AdventureWorks.Tests</RootNamespace>
